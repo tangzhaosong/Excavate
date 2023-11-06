@@ -1,7 +1,7 @@
 # CuppaCMS-SQL Injecttion
 
  后台存在SQL注入 <br>
- 注入参数 <b>id</b>
+ 注入参数 <b>id</b>SQL injection exists in the background
  ## POST
  POST /templates/default/html/windows/right.php HTTP/1.1<br>
  X-Requested-With: XMLHttpRequest<br>
